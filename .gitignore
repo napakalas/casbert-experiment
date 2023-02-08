@@ -220,5 +220,7 @@ ENV/
 .DS_Store
 
 # exclude other resources
-casbert_resources/*
+casbert_resources/*.pt
+casbert_resources/bm_classifier_model/*
+casbert_resources/pmr_classifier_model/*
 casbert_resources.zip
